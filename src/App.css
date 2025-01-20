@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'cursive';
+  font-family: 'Borisna';
   src: url('/public/Borisna.ttf') format('truetype');
  
  }
@@ -47,5 +47,9 @@ html {
   right: -12px;
   
  }
-
+ body{
+ 
+  font-family: Borisna;
+ 
+}
 }
