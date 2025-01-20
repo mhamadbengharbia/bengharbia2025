@@ -26,12 +26,12 @@ function Skills() {
     <li>Routing and Switching</li>
     <li>Subnetting</li>
     <li>Network Security</li>
-    <li>Cisco Packet Tracer</li>
-    <li>LAN/WAN Design</li>
+    <li>VLSM IP Address Management</li>
+    <li>RIP OSPF Dynamic Routing</li>
     <li>IPv4 and IPv6 Addressing</li>
-    <li>Cisco Packet Tracer</li>
+    <li>Virtualization</li>
     <li>LAN/WAN Design</li>
-    <li>IPv4 and IPv6 Addressing</li>
+    <li>NAT</li>
 </ul>
         </div>
        
@@ -48,11 +48,11 @@ function Skills() {
     <li>NFS</li>
     <li>DNS</li>
     <li>LDAP</li>
-    <li>pfSense Snort</li>
+    <li>pfSense</li>
+    <li>Snort</li>
      <li>Apache</li>
     <li>Telnet SSH</li>
      <li>Samba</li>
-    <li>POSIX</li>
 </ul>
         </div>
 
@@ -62,7 +62,7 @@ function Skills() {
         <div> 
             <img src={img3} />    
             <h1>Dev Skills</h1>
-            <p>I value simple content structure, clean design patterns and I like to code things from scratch, and enjoy bringing ideas to life in the browser.
+            <p>I value simple content structure, clean design patterns and I like to code things from scratch, and enjoy bringing ideas to life in the Web browser.
             </p>
             <h1>Languages :</h1>
             <ul>
@@ -75,7 +75,7 @@ function Skills() {
      <li>SQL</li>
     <li>OOP</li>
      <li>Express</li>
-    <li>Bootstrap</li>
+    <li>JavaScript</li>
 </ul>
         </div>
     </div>

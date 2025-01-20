@@ -19,12 +19,7 @@ function Header() {
         <li><a href="#projects">Projects /></a></li>
         <li><a href="#skills">Skills /></a></li>
         <li><a href="#contact">Contact Me /></a></li>
-        <div id="lang">
-        <li><a href="/"><img src={uk} /></a></li>
-
-        <li><a href="/fr"><img src={fr} /></a></li>
-        </div>
-     
+ 
       </ul>
 
       {/* Burger icon */}

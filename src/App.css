@@ -1,3 +1,9 @@
+@font-face {
+  font-family: 'cursive';
+  src: url('/public/Borisna.ttf') format('truetype');
+ 
+ }
+ 
 
 body{
   background-color:#f6f6f6;
