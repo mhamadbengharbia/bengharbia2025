@@ -39,7 +39,7 @@ import pic from "../src/logo2.webp";
 
   </div>
   <button  className="dnbtn"><a target="_blank" 
-  rel="noopener noreferrer" href="/cv.pdf" > Download CV </a> </button>
+  rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1kjWC-4Nk3Schox_zFq4Hle010co-FqS2?usp=sharing" > Download CV </a> </button>
   
   </main>
 

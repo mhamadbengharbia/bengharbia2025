@@ -8,7 +8,8 @@ import Diplomes from "./Components/js/Diplomes";
 import Skills from "./Components/js/Skills";
  import Contact from "./Components/js/Contact.js";
  import Footer from "./Components/js/footer.js";
- 
+import Pfe from "./Components/js/Pfe.js";
+
  import aws from "../src/Components/src/azure.webp";
  import azure from "../src/Components/src/aws.webp";
 
@@ -102,7 +103,14 @@ import Skills from "./Components/js/Skills";
       >
         <Brands />
       </motion.div>
-
+     <motion.div
+        initial={animationSettings.initial}
+        whileInView={animationSettings.whileInView}
+        transition={animationSettings.transition}
+        viewport={animationSettings.viewport}
+      >
+        <Pfe />
+      </motion.div>
       {/* Animate Skills */}
       <motion.div
         initial={animationSettings.initial}

@@ -19,7 +19,7 @@ function Diplomes() {
         <div className='dipleft'>
             <div className='dipcontenu'>
                 
-                 <h3 className='year'>2023 - Present</h3>
+                 <h3 className='year'>2023 - 2025</h3>
             
             <div>
                 <h3>Bachelor's Degree in Networks and IT Services</h3>
@@ -62,7 +62,6 @@ function Diplomes() {
                 <h3 className='year'>2023 - 2024</h3>
            
            <div>
-               <h3>Scrum Fundamentals</h3>
                <h3>NDG Linux Essentials</h3>
 
                <p>ISET Bizerte</p>
@@ -76,7 +75,7 @@ function Diplomes() {
   <div className='diprigth'>
   <div className='dipcontenu'>
                 
-                 <h3 className='year'>2021-2023</h3>
+                 <h3 className='year'>2019-2021</h3>
             
             <div>
                 <h3>Higher Technician's Certificate (BTS)</h3>
@@ -96,7 +95,7 @@ function Diplomes() {
             </div>
             <div className='dipcontenu'>
                 
-                <h3 className='year'>JAN-AUG 2021</h3>
+                <h3 className='year'>JUN-AUG 2021</h3>
            
            <div>
                <h3>Certificate: Intoduction to REACT.JS </h3>

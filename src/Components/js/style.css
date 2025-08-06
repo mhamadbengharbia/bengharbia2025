@@ -635,6 +635,29 @@ padding: 32px;
   animation: waveAnimation 6s ease-in-out infinite;
   width: 100%;
  }
+ /*PFE*/
+ .pfe{
+ text-align: center;
+  justify-content: top;
+flex-direction: column;
+align-items: center;
+color: #F6F6F6;
+letter-spacing: 1.2px;
+    }
+    .parts ul{
+   padding: 0 0 0 0;
+   }
+    .parts div ul li{ 
+       text-align: center;
+  justify-content: top;
+flex-direction: column;
+align-items: center;
+color: #F6F6F6;
+letter-spacing: 1.2px;
+ list-style: none;  
+ font-weight: 200 ;
+   }
+ 
 /*Contact*/
 .Contact{
   height: 100vh;
@@ -902,6 +925,10 @@ font-size: 24px;      }
 .buttomfooter p{
   font-size: 14px;
 }
+.pfe ,.parts{
+  font-size: 12px;
+  line-height: 32px;
+}
     } 
  @media screen and (max-width: 1200px) {
  .image-container img {
@@ -987,6 +1014,13 @@ height: fit-content;   }
   font-size: 1em;
   font-weight: 500;
 }
+.pfe ,.parts{
+  font-size: 12px;
+  line-height: 24px;
+}
+.parts{
+  padding-bottom:32px;
+}
  }
  @media screen and (max-width: 680px) {
   .socialMedia{
@@ -1003,6 +1037,8 @@ display: none;  }
     text-align: center;
   }
   @media screen and (max-width: 560px) {
+ 
+
 .heror1 p{
   font-size: 14px;
 }

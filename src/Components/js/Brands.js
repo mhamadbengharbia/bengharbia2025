@@ -8,7 +8,7 @@ function Brands() {
   
         return (
           <div class="brand"  id="projects">
-            <h1>Print('Projects')
+            <h1>Print('Professional Experience')
             </h1>
           <div className="brand1">
           <div class="box">

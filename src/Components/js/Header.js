@@ -1,8 +1,6 @@
 import React, { useState } from 'react';
 import './style.css';
-import fr from "../src/fr.webp";
-import uk from "../src/uk.webp";
- 
+
 function Header() {
   const [isMenuActive, setIsMenuActive] = useState(false);
 

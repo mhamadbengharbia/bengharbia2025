@@ -19,19 +19,20 @@ function Skills() {
         <div> 
             <img src={img2} />    
             <h1>CCNA</h1>
-            <p>I implemente and troubleshoot network systems based on CCNA standards. I focus on creating robust, efficient, and scalable network solutions.</p>
-            <h1>Tools:</h1>
+            <p>I implement and troubleshoot network systems following CCNA standards, focusing on building robust, efficient, and scalable network infrastructures.
+
+</p>
+            <h1>Key Skills & Tools::</h1>
             <ul>
     <li>Network Configuration</li>
     <li>Routing and Switching</li>
-    <li>Subnetting</li>
-    <li>Network Security</li>
-    <li>VLSM IP Address Management</li>
+    <li>Subnetting & VLSM</li>
+    <li>RIP & OSPF Dynamic Routing</li>
+    <li>IPv4 / IPv6 Addressing</li>
     <li>RIP OSPF Dynamic Routing</li>
-    <li>IPv4 and IPv6 Addressing</li>
+    <li>NAT & LAN/WAN Design</li>
     <li>Virtualization</li>
-    <li>LAN/WAN Design</li>
-    <li>NAT</li>
+    <li>Network Security</li>
 </ul>
         </div>
        
@@ -40,16 +41,15 @@ function Skills() {
         <div> 
             <img src={img1} />    
             <h1>Systems Administration </h1>
-<p>I specialize in various IT and networking technologies, focusing on secure, efficient, and scalable solutions for modern infrastructure needs.</p>
-<h1>Skills:</h1>
+<p>I specialize in modern IT and networking technologies, delivering secure, efficient, and scalable solutions tailored to today’s infrastructure demands.</p>
+<h1>Technologies:</h1>
 <ul>
     <li>FTP</li>
     <li>RADIUS</li>
     <li>NFS</li>
     <li>DNS</li>
     <li>LDAP</li>
-    <li>pfSense</li>
-    <li>Snort</li>
+    <li>pfSense / Snort</li>
      <li>Apache</li>
     <li>Telnet SSH</li>
      <li>Samba</li>
@@ -61,21 +61,21 @@ function Skills() {
 
         <div> 
             <img src={img3} />    
-            <h1>Dev Skills</h1>
-            <p>I value simple content structure, clean design patterns and I like to code things from scratch, and enjoy bringing ideas to life in the Web browser.
+            <h1>Development Skills</h1>
+            <p>I enjoy coding from scratch, building intuitive interfaces with clean design patterns and structured content, bringing ideas to life in the browser.
             </p>
-            <h1>Languages :</h1>
+            <h1>Languages & Tools::</h1>
             <ul>
     <li>MERN</li>
-    <li>PYTHON</li>
-    <li>C# .NET</li>
-    <li>WORDPRESS</li>
-    <li>GITHUB</li>
-    <li>FLASK</li>
-     <li>SQL</li>
-    <li>OOP</li>
-     <li>Express</li>
+    <li>Python, Flask</li>
+    
+    <li>C# / .NET</li>
     <li>JavaScript</li>
+    <li>Express</li>
+    <li>SQL</li>
+     <li>OOP</li>
+    <li>WordPress</li>
+     <li>GitHub</li>
 </ul>
         </div>
     </div>

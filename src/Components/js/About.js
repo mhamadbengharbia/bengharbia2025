@@ -10,8 +10,12 @@ function About() {
             </div>    
             <div className='aboutrigth'>
                 <h1>About Me /></h1>
-                <p className=''>Passionate about networks 📡 and web development 🌐, I am a Junior IT Specialist and a Full-Stack Web Developer certified from Coding Dojo 🏆.
-                Curiosity drives me 👀, and I thrive on solving problems 🔥. My expertise spans designing reliable IT systems and creating intuitive digital experiences 😎. For me, coding and network design are like assembling a puzzle 🤓 a creative process that transforms ideas into innovative solutions, simplifying life for users 🙋.</p>
+                <p className=''>Passionate about networks 📡 and web development 🌐, I am a Junior IT Specialist and a Full-Stack Web Developer 
+                    certified from Coding Dojo 🏆. 
+                    I also hold a Bachelor’s degree in IT Networks, which reinforces my technical foundation.
+                     Curiosity drives me 👀, and I thrive on solving problems 🔥. 
+                 For me, coding and network design are like assembling a puzzle 🤓 a creative process that transforms ideas into innovative solutions, 
+                 simplifying life for users 🙋.</p>
             </div>   
     </div>        
     <div className='aboutbuttom'>
@@ -33,7 +37,7 @@ function About() {
         </div>
         <div id="interets">
             <h3>Interest</h3>
-            <p>Camping, Reading, Technology</p>
+            <p>Camping, Chess, Technology</p>
         </div>
     </div>
     <hr />
