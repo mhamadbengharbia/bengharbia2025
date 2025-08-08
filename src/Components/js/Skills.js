@@ -22,7 +22,7 @@ function Skills() {
             <p>I implement and troubleshoot network systems following CCNA standards, focusing on building robust, efficient, and scalable network infrastructures.
 
 </p>
-            <h1>Key Skills & Tools::</h1>
+            <h1>Key Skills & Tools:</h1>
             <ul>
     <li>Network Configuration</li>
     <li>Routing and Switching</li>
@@ -64,7 +64,7 @@ function Skills() {
             <h1>Development Skills</h1>
             <p>I enjoy coding from scratch, building intuitive interfaces with clean design patterns and structured content, bringing ideas to life in the browser.
             </p>
-            <h1>Languages & Tools::</h1>
+            <h1>Languages & Tools:</h1>
             <ul>
     <li>MERN</li>
     <li>Python, Flask</li>

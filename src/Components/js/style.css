@@ -219,6 +219,8 @@ letter-spacing: 1.2px;
   justify-content: center;
  }
 .dnbtn {
+    font-family: 'Montserrat', sans-serif;
+
   border: 2px solid #f6f6f6;
   border-radius: 50px;
    padding: 15px 25px;
@@ -233,9 +235,11 @@ letter-spacing: 1.2px;
   cursor: pointer;
  }
  .dnbtn a{
+  
   text-decoration: none;
   color: #f6f6f6;
    letter-spacing: 1.2px;
+   font-family:  ;
    }
 .dnbtn:hover {
    color: #c5474d;
@@ -554,6 +558,8 @@ padding-top: 32px;
   margin: 0 auto;
   line-height: 24px;
   letter-spacing: 1.2px;
+      font-family: 'Montserrat', sans-serif;
+
 }
 .skillstop h1{
   letter-spacing: 1.2px;
@@ -718,6 +724,7 @@ textarea {
   height: 100px;
 }
 .Contact button {
+  font-family: 'Montserrat', sans-serif;
   background-color: #c5474d;
   color: #fff;
   border: none;
@@ -1057,6 +1064,8 @@ display: none;  }
   padding-top: 16px;
 }
 .dnbtn a{
+    font-family: 'Montserrat', sans-serif;
+
   font-size: 12px;
 }
   .animation {
@@ -1075,7 +1084,10 @@ display: none;  }
 }
 label,.Contact button ,.Contact p,.Skills p ,.dipcontenu h3{
   font-size: 12px ;
+  
 }
+
+ 
 .year {
   font-size: 10px !important;
 }
