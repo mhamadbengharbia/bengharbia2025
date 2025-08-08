@@ -33,7 +33,7 @@ import pic from "../src/logo2.webp";
   <p>Hello 👋 I'm </p>
   <section class="animation">
     <div class="first"><div>MHAMED BEN GHARBIA</div></div>
-    <div class="second"><div> A NETWORK TECHNICIEN</div></div>
+    <div class="second"><div> Network Administrator</div></div>
     <div class="third"><div>A WEB DEVELOPER</div></div>
   </section>
 
