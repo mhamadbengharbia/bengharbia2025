@@ -68,7 +68,7 @@ letter-spacing: 1.2px;
 /* Close "X" when menu is open */
 .x {
   display: none;
-  position: absolute;
+  position: fixed;
   top: 15px;
   right: 20px;
   cursor: pointer;
